@@ -1,6 +1,6 @@
 {
   "name": "bank-credit-card-validation",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Checks the validity of the credit card entered by the user",
   "main": "index.js",
   "scripts": {
