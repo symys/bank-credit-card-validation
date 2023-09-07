@@ -1,0 +1,29 @@
+{
+  "name": "bank-credit-card-validation",
+  "version": "1.0.0",
+  "description": "Checks the validity of the credit card entered by the user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/symys/bank-credit-card-validation.git"
+  },
+  "keywords": [
+    "npm",
+    "credit",
+    "card",
+    "validation",
+    "controller"
+  ],
+  "author": "Seyma Demir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/symys/bank-credit-card-validation/issues"
+  },
+  "homepage": "https://github.com/symys/bank-credit-card-validation#readme",
+  "dependencies": {
+    "bank-credit-card-validation": "^1.0.0"
+  }
+}
