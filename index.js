@@ -1,4 +1,4 @@
-function isCreditCard(cardNo) {
+export default function isCreditCard(cardNo) {
   //Luhn algoritmasini uyguluyoruz
 
   //inputu number arrayine cevirir
@@ -31,7 +31,7 @@ function isCreditCard(cardNo) {
   return result;
 }
 
-module.export = isCreditCard;
+// module.exports = isCreditCard;
 
 // console.log(isCreditCard("5196081888500645"))
 // console.log(isCreditCard("544997444492192284562329"))
