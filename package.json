@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/symys/bank-credit-card-validation#readme",
   "dependencies": {
-    "bank-credit-card-validation": "^1.0.0"
+    "bank-credit-card-validation": "^1.0.1"
   }
 }
